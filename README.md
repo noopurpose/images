@@ -6,3 +6,4 @@
 ![textutils](https://github.com/noopurpose/images/assets/154831245/d952f266-e183-4ed6-a813-d820cfdc80ad)
 [screen-capture.webm](https://github.com/noopurpose/images/assets/154831245/4916c080-d333-4c1f-a553-9866f7157fa2)
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/noopurpose/images/assets/154831245/4c5b5460-80d9-466d-b3af-ace540aec40b)
+![weather](https://github.com/noopurpose/images/assets/154831245/2d8688a1-d23d-4e6a-949f-8844220dc8d5)
