@@ -13,3 +13,5 @@
 ![CodeCore](https://github.com/user-attachments/assets/968fea5c-afb5-40d6-9e33-026f79797e61)
 ![e09d6aa6-77f0-40cd-ae86-7f364e5f1872](https://github.com/user-attachments/assets/9a5db94b-e0b7-406a-85f9-54ef1574f9ca)
 ![6a9fd626-85d4-4bbd-9ff6-41986273ca49](https://github.com/user-attachments/assets/6298899c-8aa9-482a-ad75-3468a20393fa)
+<img width="1920" height="1047" alt="image" src="https://github.com/user-attachments/assets/027b39d3-6d07-4c4a-9a42-0bdf8cab6346" />
+
